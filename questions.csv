@@ -1,0 +1,266 @@
+Points,Question,Slug,InProgress,Solved
+3,3190. Find Minimum Operations to Make All Elements Divisible by Three,find-minimum-operations-to-make-all-elements-divisible-by-three,,false
+3,1137. N-th Tribonacci Number,n-th-tribonacci-number,,false
+3,3184. Count Pairs That Form a Complete Day I,count-pairs-that-form-a-complete-day-i,,false
+3,1290. Convert Binary Number in a Linked List to Integer,convert-binary-number-in-a-linked-list-to-integer,,false
+3,1460. Make Two Arrays Equal by Reversing Sub-arrays,make-two-arrays-equal-by-reversing-subarrays,,false
+3,2351. First Letter to Appear Twice,first-letter-to-appear-twice,,false
+3,1920. Build Array from Permutation,build-array-from-permutation,,false
+3,1512. Number of Good Pairs,number-of-good-pairs,,false
+3,771. Jewels and Stones,jewels-and-stones,,false
+3,1768. Merge Strings Alternately,merge-strings-alternately,,false
+3,1832. Check if the Sentence Is Pangram,check-if-the-sentence-is-pangram,,false
+3,1304. Find N Unique Integers Sum up to Zero,find-n-unique-integers-sum-up-to-zero,,false
+3,2441. Largest Positive Integer That Exists With Its Negative,largest-positive-integer-that-exists-with-its-negative,,false
+3,2960. Count Tested Devices After Test Operations,count-tested-devices-after-test-operations,,false
+3,3158. Find the XOR of Numbers Which Appear Twice,find-the-xor-of-numbers-which-appear-twice,,false
+3,1046. Last Stone Weight,last-stone-weight,,false
+3,1431. Kids With the Greatest Number of Candies,kids-with-the-greatest-number-of-candies,,false
+3.01,905. Sort Array By Parity,sort-array-by-parity,,false
+3.01,1441. Build an Array With Stack Operations,build-an-array-with-stack-operations,,false
+3.01,1122. Relative Sort Array,relative-sort-array,,false
+3.01,1436. Destination City,destination-city,,false
+3.01,2810. Faulty Keyboard,faulty-keyboard,,false
+3.01,1207. Unique Number of Occurrences,unique-number-of-occurrences,,false
+3.01,997. Find the Town Judge,find-the-town-judge,,false
+3.01,1160. Find Words That Can Be Formed by Characters,find-words-that-can-be-formed-by-characters,,false
+3.02,973. K Closest Points to Origin,k-closest-points-to-origin,,false
+3.02,3005. Count Elements With Maximum Frequency,count-elements-with-maximum-frequency,,false
+3.02,1221. Split a String in Balanced Strings,split-a-string-in-balanced-strings,,false
+3.03,844. Backspace String Compare,backspace-string-compare,,false
+3.03,2864. Maximum Odd Binary Number,maximum-odd-binary-number,,false
+3.03,1422. Maximum Score After Splitting a String,maximum-score-after-splitting-a-string,,false
+3.04,1518. Water Bottles,water-bottles,,false
+3.04,2016. Maximum Difference Between Increasing Elements,maximum-difference-between-increasing-elements,,false
+3.04,1232. Check If It Is a Straight Line,check-if-it-is-a-straight-line,,false
+3.04,1903. Largest Odd Number in String,largest-odd-number-in-string,,false
+3.04,2279. Maximum Bags With Full Capacity of Rocks,maximum-bags-with-full-capacity-of-rocks,,false
+3.04,2540. Minimum Common Value,minimum-common-value,,false
+3.04,1161. Maximum Level Sum of a Binary Tree,maximum-level-sum-of-a-binary-tree,,false
+3.05,1356. Sort Integers by The Number of 1 Bits,sort-integers-by-the-number-of-1-bits,,false
+3.05,1456. Maximum Number of Vowels in a Substring of Given Length,maximum-number-of-vowels-in-a-substring-of-given-length,,false
+3.07,2582. Pass the Pillow,pass-the-pillow,,false
+3.07,2125. Number of Laser Beams in a Bank,number-of-laser-beams-in-a-bank,,false
+3.07,1481. Least Number of Unique Integers after K Removals,least-number-of-unique-integers-after-k-removals,,false
+3.07,872. Leaf-Similar Trees,leaf-similar-trees,,false
+3.08,1769. Minimum Number of Operations to Move All Balls to Each Box,minimum-number-of-operations-to-move-all-balls-to-each-box,,false
+3.08,1539. Kth Missing Positive Number,kth-missing-positive-number,,false
+3.09,2243. Calculate Digit Sum of a String,calculate-digit-sum-of-a-string,,false
+3.09,1051. Height Checker,height-checker,,false
+3.09,2331. Evaluate Boolean Binary Tree,evaluate-boolean-binary-tree,,false
+3.1,1897. Redistribute Characters to Make All Strings Equal,redistribute-characters-to-make-all-strings-equal,,false
+3.1,3191. Minimum Operations to Make Binary Array Elements Equal to One I,minimum-operations-to-make-binary-array-elements-equal-to-one-i,,false
+3.11,2225. Find Players With Zero or One Losses,find-players-with-zero-or-one-losses,,false
+3.11,1313. Decompress Run-Length Encoded List,decompress-run-length-encoded-list,,false
+3.12,2073. Time Needed to Buy Tickets,time-needed-to-buy-tickets,,false
+3.12,1347. Minimum Number of Steps to Make Two Strings Anagram,minimum-number-of-steps-to-make-two-strings-anagram,,false
+3.13,2126. Destroying Asteroids,destroying-asteroids,,false
+3.14,784. Letter Case Permutation,letter-case-permutation,,false
+3.14,1679. Max Number of K-Sum Pairs,max-number-of-k-sum-pairs,,false
+3.15,2829. Determine the Minimum Sum of a k-avoiding Array,determine-the-minimum-sum-of-a-k-avoiding-array,,false
+3.15,1029. Two City Scheduling,two-city-scheduling,,false
+3.15,2895. Minimum Processing Time,minimum-processing-time,,false
+3.16,1758. Minimum Changes To Make Alternating Binary String,minimum-changes-to-make-alternating-binary-string,,false
+3.16,2405. Optimal Partition of String,optimal-partition-of-string,,false
+3.16,746. Min Cost Climbing Stairs,min-cost-climbing-stairs,,false
+3.18,2433. Find The Original Array of Prefix Xor,find-the-original-array-of-prefix-xor,,false
+3.18,1863. Sum of All Subset XOR Totals,sum-of-all-subset-xor-totals,,false
+3.19,1291. Sequential Digits,sequential-digits,,false
+3.19,1038. Binary Search Tree to Greater Sum Tree,binary-search-tree-to-greater-sum-tree,,false
+3.2,1828. Queries on Number of Points Inside a Circle,queries-on-number-of-points-inside-a-circle,,false
+3.2,1318. Minimum Flips to Make a OR b Equal to c,minimum-flips-to-make-a-or-b-equal-to-c,,false
+3.2,3185. Count Pairs That Form a Complete Day II,count-pairs-that-form-a-complete-day-ii,,false
+3.21,1302. Deepest Leaves Sum,deepest-leaves-sum,,false
+3.21,2917. Find the K-or of an Array,find-the-k-or-of-an-array,,false
+3.22,2870. Minimum Number of Operations to Make Array Empty,minimum-number-of-operations-to-make-array-empty,,false
+3.22,2966. Divide Array Into Arrays With Max Difference,divide-array-into-arrays-with-max-difference,,false
+3.22,1306. Jump Game III,jump-game-iii,,false
+3.22,1404. Number of Steps to Reduce a Number in Binary Representation to One,number-of-steps-to-reduce-a-number-in-binary-representation-to-one,,false
+3.23,1071. Greatest Common Divisor of Strings,greatest-common-divisor-of-strings,,false
+3.24,1700. Number of Students Unable to Eat Lunch,number-of-students-unable-to-eat-lunch,,false
+3.24,1457. Pseudo-Palindromic Paths in a Binary Tree,pseudo-palindromic-paths-in-a-binary-tree,,false
+3.24,2946. Matrix Similarity After Cyclic Shifts,matrix-similarity-after-cyclic-shifts,,false
+3.25,841. Keys and Rooms,keys-and-rooms,,false
+3.25,1823. Find the Winner of the Circular Game,find-the-winner-of-the-circular-game,,false
+3.26,1052. Grumpy Bookstore Owner,grumpy-bookstore-owner,,false
+3.27,1630. Arithmetic Subarrays,arithmetic-subarrays,,false
+3.27,1493. Longest Subarray of 1's After Deleting One Element,longest-subarray-of-1s-after-deleting-one-element,,false
+3.28,988. Smallest String Starting From Leaf,smallest-string-starting-from-leaf,,false
+3.29,2957. Remove Adjacent Almost-Equal Characters,remove-adjacent-almost-equal-characters,,false
+3.29,2924. Find Champion II,find-champion-ii,,false
+3.29,3192. Minimum Operations to Make Binary Array Elements Equal to One II,minimum-operations-to-make-binary-array-elements-equal-to-one-ii,,false
+3.29,994. Rotting Oranges,rotting-oranges,,false
+3.3,1609. Even Odd Tree,even-odd-tree,,false
+3.32,1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts,,false
+3.32,2028. Find Missing Observations,find-missing-observations,,false
+3.32,1026. Maximum Difference Between Node and Ancestor,maximum-difference-between-node-and-ancestor,,false
+3.32,945. Minimum Increment to Make Array Unique,minimum-increment-to-make-array-unique,,false
+3.35,1310. XOR Queries of a Subarray,xor-queries-of-a-subarray,,false
+3.36,1361. Validate Binary Tree Nodes,validate-binary-tree-nodes,,false
+3.38,2265. Count Nodes Equal to Average of Subtree,count-nodes-equal-to-average-of-subtree,,false
+3.39,2300. Successful Pairs of Spells and Potions,successful-pairs-of-spells-and-potions,,false
+3.39,2909. Minimum Sum of Mountain Triplets II,minimum-sum-of-mountain-triplets-ii,,false
+3.4,2904. Shortest and Lexicographically Smallest Beautiful String,shortest-and-lexicographically-smallest-beautiful-string,,false
+3.41,1190. Reverse Substrings Between Each Pair of Parentheses,reverse-substrings-between-each-pair-of-parentheses,,false
+3.42,1296. Divide Array in Sets of K Consecutive Numbers,divide-array-in-sets-of-k-consecutive-numbers,,false
+3.42,1759. Count Number of Homogenous Substrings,count-number-of-homogenous-substrings,,false
+3.43,1685. Sum of Absolute Differences in a Sorted Array,sum-of-absolute-differences-in-a-sorted-array,,false
+3.43,2285. Maximum Total Importance of Roads,maximum-total-importance-of-roads,,false
+3.43,1208. Get Equal Substrings Within Budget,get-equal-substrings-within-budget,,false
+3.44,915. Partition Array into Disjoint Intervals,partition-array-into-disjoint-intervals,,false
+3.44,1750. Minimum Length of String After Deleting Similar Ends,minimum-length-of-string-after-deleting-similar-ends,,false
+3.46,1647. Minimum Deletions to Make Character Frequencies Unique,minimum-deletions-to-make-character-frequencies-unique,,false
+3.49,2865. Beautiful Towers I,beautiful-towers-i,,false
+3.49,2971. Find Polygon With the Largest Perimeter,find-polygon-with-the-largest-perimeter,,false
+3.5,1442. Count Triplets That Can Form Two Arrays of Equal XOR,count-triplets-that-can-form-two-arrays-of-equal-xor,,false
+3.5,2997. Minimum Number of Operations to Make Array XOR Equal to K,minimum-number-of-operations-to-make-array-xor-equal-to-k,,false
+3.51,2918. Minimum Equal Sum of Two Arrays After Replacing Zeros,minimum-equal-sum-of-two-arrays-after-replacing-zeros,,false
+3.51,1921. Eliminate Maximum Number of Monsters,eliminate-maximum-number-of-monsters,,false
+3.52,881. Boats to Save People,boats-to-save-people,,false
+3.53,1930. Unique Length-3 Palindromic Subsequences,unique-length-3-palindromic-subsequences,,false
+3.53,2958. Length of Longest Subarray With at Most K Frequency,length-of-longest-subarray-with-at-most-k-frequency,,false
+3.55,1382. Balance a Binary Search Tree,balance-a-binary-search-tree,,false
+3.55,986. Interval List Intersections,interval-list-intersections,,false
+3.62,2044. Count Number of Maximum Bitwise-OR Subsets,count-number-of-maximum-bitwise-or-subsets,,false
+3.63,779. K-th Symbol in Grammar,k-th-symbol-in-grammar,,false
+3.64,931. Minimum Falling Path Sum,minimum-falling-path-sum,,false
+3.64,1578. Minimum Deletion Cost to Avoid Repeating Letters,minimum-time-to-make-rope-colorful,,false
+3.66,1743. Restore the Array From Adjacent Pairs,restore-the-array-from-adjacent-pairs,,false
+3.69,930. Binary Subarrays With Sum,binary-subarrays-with-sum,,false
+3.78,1503. Last Moment Before All Ants Fall Out of a Plank,last-moment-before-all-ants-fall-out-of-a-plank,,false
+3.8,1248. Count Number of Nice Subarrays,count-number-of-nice-subarrays,,false
+3.83,1466. Reorder Routes to Make All Paths Lead to the City Zero,reorder-routes-to-make-all-paths-lead-to-the-city-zero,,false
+3.84,1926. Nearest Exit from Entrance in Maze,nearest-exit-from-entrance-in-maze,,false
+3.88,2571. Minimum Operations to Reduce an Integer to 0,minimum-operations-to-reduce-an-integer-to-0,,false
+3.9,1155. Number of Dice Rolls With Target Sum,number-of-dice-rolls-with-target-sum,,false
+3.9,1004. Max Consecutive Ones III,max-consecutive-ones-iii,,false
+3.91,1249. Minimum Remove to Make Valid Parentheses,minimum-remove-to-make-valid-parentheses,,false
+3.91,2915. Length of the Longest Subsequence That Sums to Target,length-of-the-longest-subsequence-that-sums-to-target,,false
+3.96,1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit,,false
+3.98,974. Subarray Sums Divisible by K,subarray-sums-divisible-by-k,,false
+3.99,1402. Reducing Dishes,reducing-dishes,,false
+4,1443. Minimum Time to Collect All Apples in a Tree,minimum-time-to-collect-all-apples-in-a-tree,,false
+4.01,950. Reveal Cards In Increasing Order,reveal-cards-in-increasing-order,,false
+4.03,935. Knight Dialer,knight-dialer,,false
+4.06,1289. Minimum Falling Path Sum II,minimum-falling-path-sum-ii,,false
+4.07,2962. Count Subarrays Where Max Element Appears at Least K Times,count-subarrays-where-max-element-appears-at-least-k-times,,false
+4.08,1947. Maximum Compatibility Score Sum,maximum-compatibility-score-sum,,false
+4.1,826. Most Profit Assigning Work,most-profit-assigning-work,,false
+4.1,901. Online Stock Span,online-stock-span,,false
+4.1,2944. Minimum Number of Coins for Fruits,minimum-number-of-coins-for-fruits,,false
+4.1,979. Distribute Coins in Binary Tree,distribute-coins-in-binary-tree,,false
+4.11,2385. Amount of Time for Binary Tree to Be Infected,amount-of-time-for-binary-tree-to-be-infected,,false
+4.12,1372. Longest ZigZag Path in a Binary Tree,longest-zigzag-path-in-a-binary-tree,,false
+4.14,1239. Maximum Length of a Concatenated String with Unique Characters,maximum-length-of-a-concatenated-string-with-unique-characters,,false
+4.18,1220. Count Vowels Permutation,count-vowels-permutation,,false
+4.21,2707. Extra Characters in a String,extra-characters-in-a-string,,false
+4.21,1814. Count Nice Pairs in an Array,count-nice-pairs-in-an-array,,false
+4.32,948. Bag of Tokens,bag-of-tokens,,false
+4.32,2462. Total Cost to Hire K Workers,total-cost-to-hire-k-workers,,false
+4.33,875. Koko Eating Bananas,koko-eating-bananas,,false
+4.38,918. Maximum Sum Circular Subarray,maximum-sum-circular-subarray,,false
+4.39,1424. Diagonal Traverse II,diagonal-traverse-ii,,false
+4.4,2353. Design a Food Rating System,design-a-food-rating-system,,false
+4.4,1171. Remove Zero Sum Consecutive Nodes from Linked List,remove-zero-sum-consecutive-nodes-from-linked-list,,false
+4.42,787. Cheapest Flights Within K Stops,cheapest-flights-within-k-stops,,false
+4.42,971. Flip Binary Tree To Match Preorder Traversal,flip-binary-tree-to-match-preorder-traversal,,false
+4.43,2192. All Ancestors of a Node in a Directed Acyclic Graph,all-ancestors-of-a-node-in-a-directed-acyclic-graph,,false
+4.46,886. Possible Bipartition,possible-bipartition,,false
+4.47,1028. Recover a Tree From Preorder Traversal,recover-a-tree-from-preorder-traversal,,false
+4.5,2096. Step-By-Step Directions From a Binary Tree Node to Another,step-by-step-directions-from-a-binary-tree-node-to-another,,false
+4.51,1035. Uncrossed Lines,uncrossed-lines,,false
+4.52,1345. Jump Game IV,jump-game-iv,,false
+4.53,2642. Design Graph With Shortest Path Calculator,design-graph-with-shortest-path-calculator,,false
+4.56,861. Score After Flipping Matrix,score-after-flipping-matrix,,false
+4.59,1458. Max Dot Product of Two Subsequences,max-dot-product-of-two-subsequences,,false
+4.6,1095. Find in Mountain Array,find-in-mountain-array,,false
+4.61,2135. Count Words Obtained After Adding a Letter,count-words-obtained-after-adding-a-letter,,false
+4.62,790. Domino and Tromino Tiling,domino-and-tromino-tiling,,false
+4.62,980. Unique Paths III,unique-paths-iii,,false
+4.64,2370. Longest Ideal Subsequence,longest-ideal-subsequence,,false
+4.64,995. Minimum Number of K Consecutive Bit Flips,minimum-number-of-k-consecutive-bit-flips,,false
+4.67,3186. Maximum Total Damage With Spell Casting,maximum-total-damage-with-spell-casting,,false
+4.7,1514. Path with Maximum Probability,path-with-maximum-probability,,false
+4.72,2830. Maximize the Profit as the Salesman,maximize-the-profit-as-the-salesman,,false
+4.73,1269. Number of Ways to Stay in the Same Place After Some Steps,number-of-ways-to-stay-in-the-same-place-after-some-steps,,false
+4.74,799. Champagne Tower,champagne-tower,,false
+4.8,1717. Maximum Score From Removing Substrings,maximum-score-from-removing-substrings,,false
+4.84,1838. Frequency of the Most Frequent Element,frequency-of-the-most-frequent-element,,false
+4.85,752. Open the Lock,open-the-lock,,false
+4.86,2101. Detonate the Maximum Bombs,detonate-the-maximum-bombs,,false
+4.87,1255. Maximum Score Words Formed by Letters,maximum-score-words-formed-by-letters,,false
+4.96,2901. Longest Unequal Adjacent Groups Subsequence II,longest-unequal-adjacent-groups-subsequence-ii,,false
+4.96,823. Binary Trees With Factors,binary-trees-with-factors,,false
+4.97,1665. Minimum Initial Energy to Finish Tasks,minimum-initial-energy-to-finish-tasks,,false
+5.03,1373. Maximum Sum BST in Binary Tree,maximum-sum-bst-in-binary-tree,,false
+5.03,2875. Minimum Size Subarray in Infinite Array,minimum-size-subarray-in-infinite-array,,false
+5.04,2147. Number of Ways to Divide a Long Corridor,number-of-ways-to-divide-a-long-corridor,,false
+5.05,1043. Partition Array for Maximum Sum,partition-array-for-maximum-sum,,false
+5.07,1552. Magnetic Force Between Two Balls,magnetic-force-between-two-balls,,false
+5.1,1727. Largest Submatrix With Rearrangements,largest-submatrix-with-rearrangements,,false
+5.14,827. Making A Large Island,making-a-large-island,,false
+5.17,2925. Maximum Score After Applying Operations on a Tree,maximum-score-after-applying-operations-on-a-tree,,false
+5.2,1482. Minimum Number of Days to Make m Bouquets,minimum-number-of-days-to-make-m-bouquets,,false
+5.21,1793. Maximum Score of a Good Subarray,maximum-score-of-a-good-subarray,,false
+5.27,1463. Cherry Pickup II,cherry-pickup-ii,,false
+5.3,1642. Furthest Building You Can Reach,furthest-building-you-can-reach,,false
+5.31,815. Bus Routes,bus-routes,,false
+5.36,3202. Find the Maximum Length of Valid Subsequence II,find-the-maximum-length-of-valid-subsequence-ii,,false
+5.37,907. Sum of Subarray Minimums,sum-of-subarray-minimums,,false
+5.42,2963. Count the Number of Good Partitions,count-the-number-of-good-partitions,,false
+5.53,2092. Find All People With Secret,find-all-people-with-secret,,false
+5.57,1981. Minimize the Difference Between Target and Chosen Elements,minimize-the-difference-between-target-and-chosen-elements,,false
+5.57,880. Decoded String at Index,decoded-string-at-index,,false
+5.64,2251. Number of Flowers in Full Bloom,number-of-flowers-in-full-bloom,,false
+5.65,1235. Maximum Profit in Job Scheduling,maximum-profit-in-job-scheduling,,false
+5.65,2597. The Number of Beautiful Subsets,the-number-of-beautiful-subsets,,false
+5.7,2919. Minimum Increment Operations to Make Array Beautiful,minimum-increment-operations-to-make-array-beautiful,,false
+5.71,1425. Constrained Subsequence Sum,constrained-subsequence-sum,,false
+5.72,1335. Minimum Difficulty of a Job Schedule,minimum-difficulty-of-a-job-schedule,,false
+5.73,2245. Maximum Trailing Zeros in a Cornered Path,maximum-trailing-zeros-in-a-cornered-path,,false
+5.8,2948. Make Lexicographically Smallest Array by Swapping Elements,make-lexicographically-smallest-array-by-swapping-elements,,false
+5.85,2542. Maximum Subsequence Score,maximum-subsequence-score,,false
+5.95,2866. Beautiful Towers II,beautiful-towers-ii,,false
+5.97,2906. Construct Product Matrix,construct-product-matrix,,false
+5.98,2449. Minimum Number of Operations to Make Arrays Similar,minimum-number-of-operations-to-make-arrays-similar,,false
+5.98,2959. Number of Possible Sets of Closing Branches,number-of-possible-sets-of-closing-branches,,false
+6.03,2050. Parallel Courses III,parallel-courses-iii,,false
+6.03,2009. Minimum Number of Operations to Make Array Continuous,minimum-number-of-operations-to-make-array-continuous,,false
+6.03,2267. Check if There Is a Valid Parentheses String Path,check-if-there-is-a-valid-parentheses-string-path,,false
+6.08,2751. Robot Collisions,robot-collisions,,false
+6.08,2444. Count Subarrays With Fixed Bounds,count-subarrays-with-fixed-bounds,,false
+6.08,2402. Meeting Rooms III,meeting-rooms-iii,,false
+6.11,778. Swim in Rising Water,swim-in-rising-water,,false
+6.24,2967. Minimum Cost to Make Array Equalindromic,minimum-cost-to-make-array-equalindromic,,false
+6.33,2076. Process Restricted Friend Requests,process-restricted-friend-requests,,false
+6.34,1579. Remove Max Number of Edges to Keep Graph Fully Traversable,remove-max-number-of-edges-to-keep-graph-fully-traversable,,false
+6.34,2910. Minimum Number of Groups to Create a Valid Assignment,minimum-number-of-groups-to-create-a-valid-assignment,,false
+6.49,2812. Find the Safest Path in a Grid,find-the-safest-path-in-a-grid,,false
+6.49,3187. Peaks in Array,peaks-in-array,,false
+6.59,786. K-th Smallest Prime Fraction,k-th-smallest-prime-fraction,,false
+6.62,2709. Greatest Common Divisor Traversal,greatest-common-divisor-traversal,,false
+6.62,2896. Apply Operations to Make Two Strings Equal,apply-operations-to-make-two-strings-equal,,false
+6.64,1420. Build Array Where You Can Find The Maximum Exactly K Comparisons,build-array-where-you-can-find-the-maximum-exactly-k-comparisons,,false
+6.7,1081. Smallest Subsequence of Distinct Characters,smallest-subsequence-of-distinct-characters,,false
+6.74,1074. Number of Submatrices That Sum to Target,number-of-submatrices-that-sum-to-target,,false
+6.74,1478. Allocate Mailboxes,allocate-mailboxes,,false
+6.79,834. Sum of Distances in Tree,sum-of-distances-in-tree,,false
+6.83,2045. Second Minimum Time to Reach Destination,second-minimum-time-to-reach-destination,,false
+6.89,992. Subarrays with K Different Integers,subarrays-with-k-different-integers,,false
+7.07,1915. Number of Wonderful Substrings,number-of-wonderful-substrings,,false
+7.26,857. Minimum Cost to Hire K Workers,minimum-cost-to-hire-k-workers,,false
+7.32,3068. Find the Maximum Sum of Node Values,find-the-maximum-sum-of-node-values,,false
+7.39,2029. Stone Game IX,stone-game-ix,,false
+7.45,1723. Find Minimum Time to Finish All Jobs,find-minimum-time-to-finish-all-jobs,,false
+7.46,1851. Minimum Interval to Include Each Query,minimum-interval-to-include-each-query,,false
+7.57,1697. Checking Existence of Edge Length Limited Paths,checking-existence-of-edge-length-limited-paths,,false
+7.58,2897. Apply Operations on Array to Maximize Sum of Squares,apply-operations-on-array-to-maximize-sum-of-squares,,false
+7.93,1611. Minimum One Bit Operations to Make Integers Zero,minimum-one-bit-operations-to-make-integers-zero,,false
+8.08,2312. Selling Pieces of Wood,selling-pieces-of-wood,,false
+8.23,956. Tallest Billboard,tallest-billboard,,false
+8.51,1928. Minimum Cost to Reach Destination in Time,minimum-cost-to-reach-destination-in-time,,false
+8.6,2742. Painting the Walls,painting-the-walls,,false
+8.64,2867. Count Valid Paths in a Tree,count-valid-paths-in-a-tree,,false
+8.78,2949. Count Beautiful Substrings II,count-beautiful-substrings-ii,,false
+9.11,2289. Steps to Make Array Non-decreasing,steps-to-make-array-non-decreasing,,false
+10,1531. String Compression II,string-compression-ii,,false

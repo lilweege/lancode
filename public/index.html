@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>LeetCode Workshop</title>
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+
+	<link rel="icon" type="image/png" href="https://assets.leetcode.com/static_assets/public/icons/favicon-16x16.png" sizes="16x16">
+	<link rel="icon" type="image/png" href="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="https://assets.leetcode.com/static_assets/public/icons/favicon-160x160.png" sizes="160x160">
+	<link rel="icon" type="image/png" href="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" sizes="192x192">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" rel="stylesheet">
+	<script src="https://cdn.jsdelivr.net/npm/luxon@3.4.4/build/global/luxon.min.js"></script>
+	<link href="https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css" rel="stylesheet">
+	<script type="text/javascript" src="https://unpkg.com/tabulator-tables/dist/js/tabulator.min.js"></script>
+	<script src="/socket.io/socket.io.js"></script>
+	<script defer src="/public/client.js"></script>
+
+<style>
+* {
+	font-family: "Roboto", sans-serif;
+}
+.tabulator-cell {
+	user-select: none;
+}
+#canvas {
+	overflow: hidden;
+	height: calc(100vw - 5em);
+	width: 100px;
+	position: absolute;
+	top: 0; left: 50%;
+	transform: translate(-50%, -50%) rotate(90deg) translateX(100px);
+	z-index: 999;
+	border: 5px solid black;
+	border-radius: 999em;
+}
+#alert {
+	font-weight: bold;
+	position: fixed;
+	width: 30vw;
+	color: white;
+	background: #ce1515;
+	top: 0;
+	left: 50%;
+	transform: translateX(-50%);
+	border-radius: 20px;
+	visibility: hidden;
+	opacity: 0;
+	text-align: center;
+	padding: 1em;
+	z-index: 1000;
+}
+@keyframes fadeInOut {
+	0% {
+		top: 0px;
+		opacity: 0;
+		visibility: visible;
+	}
+	5% {
+		top: 20px;
+		opacity: 1;
+		visibility: visible;
+	}
+	95% {
+		top: 20px;
+		opacity: 1;
+		visibility: visible;
+	}
+	100% {
+		top: 20px;
+		opacity: 0;
+		visibility: hidden;
+	}
+}
+
+</style>
+</head>
+<body>
+
+    <div id="alert">Success</div>
+    <p>
+        <h1 style="text-align: center;">LeetCode Workshop</h1>
+        <h2>Instructions</h2>
+        <ol>
+            <li>Pick a question from the list that you think would be a suitable challenge for you.
+                <ul>
+                    <li>If you read a question and it's too easy or too difficult, pick another one. Try to aim for 10-20 minutes per question.</li>
+                    <li>If you find a question that you've already solved, please skip it.</li>
+                </ul>
+            </li>
+            <li>Enter your name (or an anonymous alias) in the <b>Claimed by</b> field and click submit; this lets others know not to interfere with you.</li>
+            <li>Solve the question in LeetCode.</li>
+            <li>Copy your accepted submission link, paste is in the <b>Submission link</b> box, and click submit.</li>
+        </ol>
+        <h2>Prizes</h2>
+        You're working <i>together</i>, meaning we consider the cumulative point total of all solved questions. Feel free to work together with people around you!
+        <ul>
+            <!-- TODO: Change these numbers if changing the total goal -->
+            <!-- It's more work than it's worth to make this dynamic -->
+            <li>100 points (25% of the bar): ...</li>
+            <li>200 points (50% of the bar): ...</li>
+            <li>300 points (75% of the bar): ...</li>
+            <li>400 points (100% of the bar): ...</li>
+        </ul>
+        <div style="height: 200px; position: relative;">
+            <canvas id="canvas"></canvas>
+        </div>
+    </p>
+    <div id="example-table"></div>
+</body>
+</html>
+
