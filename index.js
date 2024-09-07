@@ -114,7 +114,6 @@ async function getSubmissionJSON(submissionID) {
     myHeaders.append("Sec-Fetch-Mode", "cors");
     myHeaders.append("Sec-Fetch-Dest", "empty");
     myHeaders.append("host", "leetcode.com");
-    console.log(ALL_COOKIES);
     myHeaders.append("Cookie", ALL_COOKIES);
 
     var raw = JSON.stringify({
